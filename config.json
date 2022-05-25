@@ -1,13 +1,13 @@
 {
-    "JWT_ACCES_SECRET": "secret",
-    "JWT_REFRESH_SECRET": "secretsecret",
-    "CONSUMER_QUEUE": "token_queue",
-    "GATEWAY_QUEUE": "token_gateway_queue",
-    "APP_QUEUE": "app_queue",
-    "DATA_QUEUE": "data_queue",
-    "SMTP_HOST": "smtp.gmail.com",
-    "SMPT_PORT": 587,
-    "SMPT_USER": "gordeysenutaemergencyacc@gmail.com",
-    "SMPT_PASSWORD":"gordei2004",
-    "API_URL":"http://localhost:5000"
+    "JWT_ACCES_SECRET": "",
+    "JWT_REFRESH_SECRET": "",
+    "CONSUMER_QUEUE": "",
+    "GATEWAY_QUEUE": "",
+    "APP_QUEUE": "",
+    "DATA_QUEUE": "",
+    "SMTP_HOST": "",
+    "SMPT_PORT": ,
+    "SMPT_USER": "",
+    "SMPT_PASSWORD":"",
+    "API_URL":""
 }
